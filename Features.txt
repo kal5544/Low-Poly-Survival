@@ -1,0 +1,24 @@
+----------FEATURES----------
+
+**Feature                     **Description                 **Worker
+______________________________________________________________________________
+
+**Player Movement ** Must include 3rd and 1st person support** none
+**
+
+
+----------WORKINPROGRESS----------
+
+**Feature                     **Worker
+_____________________________________________________________________________
+
+**Weapon Manager ** Aleksei
+
+
+----------COMPLETE----------
+
+**Feature
+_____________________________________________________________________________
+
+**Inventory
+**Modular Building
